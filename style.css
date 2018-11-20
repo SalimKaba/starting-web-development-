@@ -18,8 +18,6 @@ h1 {
 
 .Tim-Berners{
   grid-row: 1/2;
-  border: solid;
-  border-style: inset;
   padding: 10px;
   text-align: center;
 }
@@ -55,7 +53,6 @@ a {
 
 .links{
   grid-row: 3/4;
-  border-style: inset;
   padding-top: 20px;
   padding-left: 110px;
   padding-right: 110px;
@@ -89,7 +86,6 @@ a {
 
 .movies{
   grid-row: 5/6;
-  border-style: inset;
   padding: 10px
 }
 
